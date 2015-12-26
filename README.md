@@ -1,5 +1,7 @@
 # Haste
 
+[![Join the chat at https://gitter.im/Dasoren/haste-server](https://badges.gitter.im/Dasoren/haste-server.svg)](https://gitter.im/Dasoren/haste-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Haste is an open-source pastebin software written in node.js, which is easily
 installable in any network.  It can be backed by either redis or filesystem,
 and has a very easy adapter interface for other stores.  A publicly available
